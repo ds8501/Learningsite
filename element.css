@@ -1,0 +1,14 @@
+p,
+a{
+    color: green; 
+}
+li{
+    list-style-type:square;
+}
+.special{
+    color: indigo;
+    font-weight: bold;
+} 
+li em{
+    color: rebeccapurple;
+}
